@@ -2,7 +2,7 @@
 😹 ASIS CTF Quals 2025 Satoki問 Writeups
 
 ## はじめに
-ASIS CTF Quals 2025 作問者の一人 [Satoki](https://twitter.com/satoki00) と言います。  
+ASIS CTF Quals 2025 作問者の一人 [Satoki](https://x.com/satoki00) と言います。  
 2025で私が作った問題は以下になります。  
 
 - Web
